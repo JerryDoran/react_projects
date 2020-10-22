@@ -63,9 +63,4 @@ const App = () => {
   );
 };
 
-// Question Component
-const Question = () => {
-  return <article className='question'></article>;
-};
-
 ReactDOM.render(<App />, document.getElementById('app'));
